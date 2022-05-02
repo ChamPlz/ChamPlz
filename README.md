@@ -1,6 +1,6 @@
 
 # Olá, eu sou a Carlos! 👋
-estudante de Programação,no momento cursando a graduação em ADS na faculdade Estacio de sá.
+Estudante de Programação,no momento cursando a graduação em ADS na faculdade Estacio de sá.
 
 
 ## 🔗 Links
@@ -10,7 +10,7 @@ estudante de Programação,no momento cursando a graduação em ADS na faculdade
 
 
 ## 
-👩‍💻 Em busca do primeiro emprego na área
+👩‍💻 Em busca do primeiro emprego na área.
 
 🧠 Estou aprendendo HTML,CSS e JS
 
