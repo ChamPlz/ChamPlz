@@ -1,10 +1,4 @@
 
-## 🚀 Sobre mim
-👋 Olá, Sou @ChamPlz ou Carlos se preferir.
-
-👀 Me interesso em JavaScript, Node, HTMl e CSS
-
-
 # Olá, eu sou a Carlos! 👋
 estudante de Programação,no momento cursando a graduação em ADS na faculdade Estacio de sá.
 
