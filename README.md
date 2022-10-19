@@ -1,13 +1,10 @@
-# <center>Bem vindo ao meu GitHub</center>
+# Bem vindo ao meu GitHub
 
 ## sobre mim:
 
 > * Olá me chamo **Carlos Caldeira** , tenho **19** anos.
-
 > * Sou de <address>Itapecerica da Serra, São Paulo, Brazil.</address>
-
 > * Cursando Análise e desenvolvimento de sistemas na Estácio de sá.
-
 > * Extras: Tecladista,Baixista e streamer
 
 ****
