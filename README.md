@@ -5,7 +5,7 @@
 > * Olá me chamo **Carlos Caldeira** , tenho **19** anos.
 > * Sou de <address>Itapecerica da Serra, São Paulo, Brazil.</address>
 > * Cursando Análise e desenvolvimento de sistemas na Estácio de sá.
-> * Extras: Tecladista,Baixista e streamer
+> * Extras: Tecladista, Baixista e streamer
 
 ****
 
@@ -23,7 +23,7 @@
 
 ###  💡 Estatísticas gerais e linguagens  mais usadas :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamPlz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamPlz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamPlz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamPlz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
