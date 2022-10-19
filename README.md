@@ -1,6 +1,6 @@
-# Bem vindo ao meu GitHub
+# 🚀Bem vindo ao meu GitHub🚀
 
-## sobre mim:
+## 📖 sobre mim:
 
 > * Olá me chamo **Carlos Caldeira** , tenho **19** anos.
 > * Sou de <address>Itapecerica da Serra, São Paulo, Brazil.</address>
@@ -21,7 +21,7 @@
 
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-###  💡 Estatísticas gerais e linguagens  mais usadas :
+###  📈 Estatísticas gerais e linguagens  mais usadas :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamPlz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamPlz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
