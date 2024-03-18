@@ -33,5 +33,5 @@
 ##  Fale comigo! ✉️
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosccjunior/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos_junior41@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/o.cjunior/) 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChamPlz.readme)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ChamPlz.champlz)
 
