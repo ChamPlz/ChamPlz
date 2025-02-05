@@ -4,8 +4,8 @@
 
 > * Olá me chamo **Carlos Caldeira** , tenho **22** anos.
 > * Sou de <address>Itapecerica da Serra, São Paulo, Brazil.</address>
-> * Cursando Análise e desenvolvimento de sistemas na Estácio de sá.
-> * Extras: Tecladista, Baixista e streamer
+> * Formado Análise e desenvolvimento de sistemas na Estácio de sá.
+> * Extras: Musicista
 > * Alguns dos [certificados](https://github.com/ChamPlz/Certificates) dos cursos que já fiz.
 
 ****
